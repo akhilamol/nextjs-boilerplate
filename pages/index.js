@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Page owned by{' '}
+          Page owned by{''}
           <code className={styles.code}>aaniyan</code>
         </p>
 
